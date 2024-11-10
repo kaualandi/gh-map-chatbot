@@ -1,0 +1,4 @@
+_IGNORE_*
+dist
+node_modules
+.env
